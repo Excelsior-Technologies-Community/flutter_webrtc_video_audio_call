@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109149498668",
+    "project_id": "webrtc-video-audio-call",
+    "storage_bucket": "webrtc-video-audio-call.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109149498668:android:4c52fff19ea26f707ad089",
+        "android_client_info": {
+          "package_name": "com.example.flutter_webrtc_video_audio_call"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuQYOwB2eD7PnG5OvTzJaWX4kjTx1-DRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
